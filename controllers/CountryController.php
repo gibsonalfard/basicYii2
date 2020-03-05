@@ -6,6 +6,7 @@ use Yii;
 use app\models\Country;
 use app\models\CountrySearch;
 use yii\web\Controller;
+use yii\rest\ActiveController;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
 
